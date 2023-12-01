@@ -1,8 +1,7 @@
-- 🔭 I’m currently working on Minecraft Flask Project
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working on Ardunio Claw Machine
+- 🌱 I’m currently learning Arduino C
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Nothing (Stack Overflow has my back)
-- 💬 Ask me about Fask  
 - 📫 How to reach me: Msg me on github
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play minecraft and minecraft only
+- ⚡ Fun fact: Im a rich scholar
