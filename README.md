@@ -1,7 +1,1 @@
-- 🔭 I’m currently working on Ardunio Claw Machine
-- 🌱 I’m currently learning Arduino C
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Nothing (Stack Overflow has my back)
-- 📫 How to reach me: Msg me on github
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im a rich scholar
+
